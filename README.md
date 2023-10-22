@@ -1,7 +1,7 @@
 # ESP32 CAM Data Logging with DHT11 Sensor
 
-This project utilizes an ESP32 CAM module, a DHT11 sensor, and an SD card to measure and log temperature and humidity data to a text file on the SD card. The project captures sensor data at regular intervals and appends it to a text file for logging purposes. Here's an overview of the project:
-The reason for using the ESP32 CAM (without the camera sensor obviously) is because it has a built-in SDCARD slot so saved time for SPI wiring
+- This project utilizes an ESP32 CAM module, a DHT11 sensor, and an SD card to measure and log temperature and humidity data to a text file on the SD card. The project captures sensor data at regular intervals and appends it to a text file for logging purposes
+- The reason for using the ESP32 CAM (without the camera sensor obviously) is because it has a built-in SDCARD slot so saved time for SPI wiring
 
 ## Hardware Components
 
